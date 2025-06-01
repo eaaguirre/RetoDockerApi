@@ -1,0 +1,51 @@
+
+## Build artifacts
+bin/
+obj/
+out/
+TestResults/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+## VS Code
+.vscode/
+.history/
+
+## Visual Studio
+.vs/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+## dotCover
+*.dotCover
+
+## Coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+lcov*.info
+
+## Sonar
+.sonar/
+.scannerwork/
+
+## Others
+_ReSharper*/
+*.tlog
+*.cache
+*.pdb
+*.bak
+*.tmp
+*.swp
