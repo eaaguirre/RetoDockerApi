@@ -49,4 +49,4 @@ _ReSharper*/
 *.bak
 *.tmp
 *.swp
-tests/
+tests/*/
