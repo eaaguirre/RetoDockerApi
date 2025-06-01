@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiReto3.props" />
+</Project>
