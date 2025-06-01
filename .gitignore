@@ -49,3 +49,5 @@ _ReSharper*/
 *.bak
 *.tmp
 *.swp
+/tests/
+tests/ApiReto3.Tests/bin/
